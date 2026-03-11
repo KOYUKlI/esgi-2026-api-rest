@@ -1,0 +1,28 @@
+{
+  "name": "esgi-2026-api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOYUKlI/esgi-2026-api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/KOYUKlI/esgi-2026-api-rest/issues"
+  },
+  "homepage": "https://github.com/KOYUKlI/esgi-2026-api-rest#readme",
+  "dependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6"
+  }
+}
