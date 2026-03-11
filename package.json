@@ -20,6 +20,7 @@
   "homepage": "https://github.com/KOYUKlI/esgi-2026-api-rest#readme",
   "dependencies": {
     "tsx": "^4.21.0",
+    "typeorm": "^0.3.28",
     "typescript": "^5.9.3"
   },
   "devDependencies": {
