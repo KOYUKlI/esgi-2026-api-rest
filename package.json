@@ -1,0 +1,25 @@
+{
+  "name": "node_2026_live_coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RemyMach/esgi-2026-api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/RemyMach/esgi-2026-api-rest/issues"
+  },
+  "homepage": "https://github.com/RemyMach/esgi-2026-api-rest#readme",
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
