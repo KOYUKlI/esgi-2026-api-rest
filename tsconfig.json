@@ -16,9 +16,15 @@
     // and npm install -D @types/node
 
     // Other Outputs
+<<<<<<< HEAD
     "sourceMap": true,
     "declaration": true,
     "declarationMap": true,
+=======
+    "sourceMap": false,
+    "declaration": false,
+    "declarationMap": false,
+>>>>>>> ecb1c888baafdf47f46a960f3d70b2369a972779
 
     // Stricter Typechecking Options
     "noUncheckedIndexedAccess": true,
@@ -40,5 +46,10 @@
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force",
     "skipLibCheck": true,
+<<<<<<< HEAD
+=======
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+>>>>>>> ecb1c888baafdf47f46a960f3d70b2369a972779
   }
 }

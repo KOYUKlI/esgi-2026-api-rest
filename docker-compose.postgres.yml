@@ -22,4 +22,8 @@ services:
       ADMINER_DEFAULT_SERVER: postgres
 
 volumes:
+<<<<<<< HEAD
   postgres_esgi_data:
+=======
+  postgres_esgi_data:
+>>>>>>> ecb1c888baafdf47f46a960f3d70b2369a972779

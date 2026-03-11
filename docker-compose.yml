@@ -22,4 +22,8 @@ services:
       - PMA_HOST=mysql-db
 volumes:
   mysql-data:
+<<<<<<< HEAD
     driver: local
+=======
+    driver: local
+>>>>>>> ecb1c888baafdf47f46a960f3d70b2369a972779
